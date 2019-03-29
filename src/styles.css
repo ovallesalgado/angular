@@ -8,7 +8,10 @@ body {
     margin-top: 20px;
 }
 
-
+.img-logo{
+  height:100px;
+   width:100px
+}
 /*Animate*/
 
 .animated {
